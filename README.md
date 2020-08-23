@@ -18,7 +18,7 @@ Unhealthy(PM2.5: 55.5-150.4) (PM10: 255-354)
 Very Unhealthy(PM2.5: 150.5-250.4) (PM10: 355-424)
 Hazardous(PM2.5: 250.5-500.4) (PM10: 425-604)
 
-Further infor for AQI index: https://www3.epa.gov/airnow/aqi-technical-assistance-document-sept2018.pdf
+Further info (Table with descriptions as well) for AQI index: https://www3.epa.gov/airnow/aqi-technical-assistance-document-sept2018.pdf
 
 Tural Alizada (c)
 github.com/revolver038
