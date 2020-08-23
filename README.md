@@ -20,5 +20,5 @@ Hazardous----------250.5-500.4-------425-604
 
 Further for AQI index: https://www3.epa.gov/airnow/aqi-technical-assistance-document-sept2018.pdf
 
-Tural ALizada (c)
+Tural Alizada (c)
 github.com/revolver038
