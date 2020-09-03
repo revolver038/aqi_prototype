@@ -1,5 +1,5 @@
 # aqi_prototype
-Simple yet useful AQI prototype with SDS011 + DHT11 + SSH1106 Oled display setted up with Arduino UNO board
+Simple yet useful AQI prototype with SDS011 + DHT11 + SSH1106 Oled display setted up with Arduino UNO board (Please see the image "How to set up.png")
 
 With this prototype you will get sensor readings (Humidity, Temperature, PM2.5 and PM10) right away on OLED display in 3 seconds interval. Regarding the values, 
 AQI indexes will appear below them.
