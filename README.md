@@ -1,5 +1,5 @@
 # aqi_prototype
-Simple yet useful AQI prototype with SDS011 + DHT11 + SSH1106 Oled display setted up with Arduino UNO board (Please see the image "How to set up.png" above), 
+Simple yet useful AQI prototype with SDS011 + DHT11 + SSH1106 Oled display setted up with Arduino UNO board (Please see the image "How to set up.png"), 
 Realtime sensor readings:
 
 ![alt text](https://raw.githubusercontent.com/revolver038/aqi_prototype/master/OLED%20Display.jpg)
